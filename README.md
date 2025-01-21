@@ -40,6 +40,27 @@ rJvd7g.json - Quiz submission data
 XgAgFJ.json - Historical quiz data
 Ensure these files are placed in the correct directory as indicated in the script.
 
+# Quiz Performance Analysis
+
+## Missing Values in Historical Quiz Data
+This section highlights the missing values in the historical quiz data.
+
+![Missing Values in Data](images/Output_1.png)
+
+---
+
+## Current Quiz Performance
+Details of the quiz performance, including total questions, correct answers, and accuracy, along with topic-wise analysis.
+
+![Quiz Performance](images/Output_2.png)
+
+---
+
+## Topic-Wise Performance Visualization
+A barplot showcasing the performance in each topic for better understanding of strengths and weaknesses.
+
+![Topic Performance](images/visualization.png)
+
 Running the Project
 Clone the repository or download the project folder.
 Place the required .json files in the /content/ folder (or specify your custom path).
